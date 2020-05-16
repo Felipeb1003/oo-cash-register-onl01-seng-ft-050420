@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 require 'pry'
 class CashRegister
  attr_accessor :total, :items, :discount, :price, :quantity
